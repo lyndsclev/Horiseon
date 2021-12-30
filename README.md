@@ -9,6 +9,8 @@ I re-organized the CSS to display global, element, class, and ID selectors in ea
 
 Overall, I am confident that the HTML and CSS for this project is now significantly more accessible and cleaner and meets the acceptance criteria. 
 
-Screenshot: 
+Screenshot: https://github.com/lyndsclev/Horiseon/blob/c2a221c35419ecf9c516c5c1cd3ef1305a06e75a/assets/images/Refactored%20Horiseon%20Page%20Screenshot.png
+
+Deployed application: https://lyndsclev.github.io/Horiseon/ 
 
 
